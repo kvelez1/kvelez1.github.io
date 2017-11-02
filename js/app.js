@@ -35,7 +35,7 @@ $(function(){
           '</div>' + 
           
           '<div class="panel-footer">' +  
-            '<a href="' + meetup.link + '">Learn more about this awesome Meetup &nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>' + 
+            '<a href="' + meetup.link + '">Find an awesome Meetup &nbsp; <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span></a>' + 
           '</div>' +
         '</div>' + 
       '</div>' 
